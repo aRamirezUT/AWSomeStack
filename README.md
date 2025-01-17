@@ -17,7 +17,8 @@ The API code exists in the `api` directory. You can run the API server locally:
 
 - Clone this repo
 - Make sure you are in the `api` directory
-- Create a virtualenv by typing in the following command: `python -m venv .venv`
+- Create a virtualenv by typing in the following command: `python3 -m venv .venv`
+- source your environment: `source .venv/bin/activate`
 - Install the required packages: `pip install -r requirements.txt`
 - Create a `.env` file, and add you AWS Access and Secret key, check  `.env.example`
 - Also, change the BUCKET_NAME to your S3 bucket name in `main.py`
@@ -26,7 +27,7 @@ The API code exists in the `api` directory. You can run the API server locally:
 
 ### Front-end
 
-The front-end code exits in the `front-end-nextjs` directory. You can run the front-end server locally:
+The front-end code exists in the `front-end-nextjs` directory. You can run the front-end server locally:
 
 - Clone this repo
 - Make sure you are in the `front-end-nextjs` directory
