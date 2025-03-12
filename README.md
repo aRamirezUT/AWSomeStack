@@ -43,7 +43,8 @@ The goal is to get hands-on with DevOps practices like Containerization, CICD an
 ## Author
 
 [Aren Ramirez](https://github.com/aRamirezUT)
-QR Code Application credits: [Rishab Kumar]([https://github.com/rishabkumar7](https://github.com/rishabkumar7/devops-qr-code))
+
+QR Code Application credits: [Rishab Kumar](https://github.com/rishabkumar7](https://github.com/rishabkumar7/devops-qr-code))
 
 ## License
 
