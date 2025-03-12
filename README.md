@@ -1,7 +1,7 @@
-# devops-qr-code
+# AWSomeStack
 
-This is the sample application for the DevOps Capstone Project.
-It generates QR Codes for the provided URL, the front-end is in NextJS and the API is written in Python using FastAPI.
+This a pilot test for creating an AWS cluster utilzing Terraform and other CI/CD Tooling.
+Currently the app generates QR Codes for the provided URL, the front-end is in NextJS and the API is written in Python using FastAPI.
 
 ## Application
 
@@ -40,11 +40,10 @@ The front-end code exists in the `front-end-nextjs` directory. You can run the f
 
 The goal is to get hands-on with DevOps practices like Containerization, CICD and monitoring.
 
-Look at the capstone project for more detials.
-
 ## Author
 
-[Rishab Kumar](https://github.com/rishabkumar7)
+[Aren Ramirez](https://github.com/aRamirezUT)
+QR Code Application credits: [Rishab Kumar]([https://github.com/rishabkumar7](https://github.com/rishabkumar7/devops-qr-code))
 
 ## License
 
